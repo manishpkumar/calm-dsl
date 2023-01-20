@@ -115,8 +115,8 @@ context: ``calm show config``.
 Getting Started for Developers
 ------------------------------
 
--  `Blueprints <docs/Blueprints/index.rst>`__
--  `Applications <docs/Application>`__
+-  `Blueprints <Blueprints>`__
+-  `Applications <Application>`__
 -  `Brownfield Application <#>`__
 -  `Runbooks <#>`__
 -  `Task Library <#>`__
